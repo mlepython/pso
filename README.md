@@ -1,2 +1,2 @@
 # pso
-particle swarm optimization algorithm
+A particle swarm optimization algorithm in COBOL.
